@@ -7,9 +7,9 @@ and document core Unity game systems with real-world considerations.
 
 ## Project Structure
 Each system is implemented as a self-contained folder with:
-- Isolated scenes
-- Focused scripts
-- Supporting documentation
+- Scenes
+- Scripts
+- Documentation
 
 ## Status
 This project is actively under development and will evolve over time.

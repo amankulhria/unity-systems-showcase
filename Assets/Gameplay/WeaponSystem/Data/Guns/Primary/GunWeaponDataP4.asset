@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf15b1444c75f5042869698d95198a7d, type: 3}
+  m_Name: GunWeaponDataP4
+  m_EditorClassIdentifier: 
+  weaponName: Sniper Rifle
+  weaponIcon: {fileID: 21300000, guid: bef0ceb0993509d40b4d6a0e174c7b6d, type: 3}
+  weaponCategory: 0
+  fireMode: 0
+  fireRate: 0.15
+  damage: 22
+  magazineSize: 30
+  maxAmmo: 90
+  reloadTime: 1.5
